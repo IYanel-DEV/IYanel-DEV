@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Youniss (Yanel)
 
 ## About Me
-- 🔥 **Name:** Youniss *(Nickname: Yanel)*
+- 🔥 **Name:** Youniss *(Nickname: yanel)*
 - 🎂 **Age:** 22 years old
 - 📍 **Location:** Iraq
 - 💻 **Passion:** Creating games, plugins, and web applications
