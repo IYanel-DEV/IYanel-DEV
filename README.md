@@ -29,7 +29,7 @@ I'm currently working on various projects spanning:
 - Game development using Godot Engine
 - Web applications with modern JavaScript frameworks
 - Custom plugins and tools
-- Learning and exploring new technologies
+- Learning and exploring new technologies 
 
 ## 🤝 Let's Connect!
 I believe coding is more fun when we share knowledge and collaborate. Feel free to:
